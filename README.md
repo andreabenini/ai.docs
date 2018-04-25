@@ -1,5 +1,5 @@
 # ai.docs
-Assorted AI documentation
+Assorted AI documentation.
 
 
 # Links
