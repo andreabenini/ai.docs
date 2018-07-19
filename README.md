@@ -13,3 +13,8 @@ Assorted AI documentation.
 
 # Examples
 - https://medium.com/applied-data-science/how-to-build-your-own-alphazero-ai-using-python-and-keras-7f664945c188 Connect4 AI with python and keras (alphazero based approach)
+
+# Projects
+- Fakebook. Android app that uses machine learning algorithm to checks the reliability of your news sources 
+  [Fakebook Post](https://devpost.com/software/fakebook-uk8m09) and
+  [Code](https://github.com/hi2nithya/FakeBook)
