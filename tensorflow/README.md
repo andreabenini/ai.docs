@@ -11,6 +11,10 @@
 - Tensorflow chatbot for deep learning [**seq2seq** based]
   - https://web.stanford.edu/class/cs20si/lectures/slides_13.pdf<br>
     Stanford lecture on CS20SI. TensorFlow for Deep Learning Research Lecture 13
+- How to Build Your First Chatbot
+  - https://tutorials.botsfloor.com/how-to-build-your-first-chatbot-c84495d4622d<br>
+    Probably not your first bot as stated in the title, information are really good but deeply technical for a beginner.
+    The way to go when you have learnt something good and you pretty understand not just the basics. Link to github repo for full source
 - Learning phrase Representations using RNN (2014) [milestone on RNN]
   - https://arxiv.org/pdf/1406.1078.pdf<br>
     Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation
