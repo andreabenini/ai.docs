@@ -18,3 +18,8 @@
 - Learning phrase Representations using RNN (2014) [milestone on RNN]
   - https://arxiv.org/pdf/1406.1078.pdf<br>
     Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation
+
+# NLTK
+- Natural Language ToolKit (python) Essentials
+ - https://medium.com/@gk_/natural-language-toolkit-the-essentials-c97dd6a848d3<br>
+   Tokenize, Stemming, Tagging, Chunking and many cool things (worldnet and dictionaries)
