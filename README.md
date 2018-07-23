@@ -18,3 +18,26 @@ Assorted AI documentation.
 - Fakebook. Android app that uses machine learning algorithm to checks the reliability of your news sources 
   [Fakebook Post](https://devpost.com/software/fakebook-uk8m09) and
   [Code](https://github.com/hi2nithya/FakeBook)
+
+# Chatbots
+- Contextual Chatbots with Tensorflow
+  - https://chatbotsmagazine.com/contextual-chat-bots-with-tensorflow-4391749d0077<br>
+    Build a chatbot framework using Tensorflow with some context handling
+- Tensorflow chatbot for deep learning [**seq2seq** based]
+  - https://web.stanford.edu/class/cs20si/lectures/slides_13.pdf<br>
+    Stanford lecture on CS20SI. TensorFlow for Deep Learning Research Lecture 13
+- How to Build Your First Chatbot
+  - https://tutorials.botsfloor.com/how-to-build-your-first-chatbot-c84495d4622d<br>
+    Probably not your first bot as stated in the title, information are really good but deeply technical for a beginner.
+    The way to go when you have learnt something good and you pretty understand not just the basics. Link to github repo for full source
+- Learning phrase Representations using RNN (2014) [milestone on RNN]
+  - https://arxiv.org/pdf/1406.1078.pdf<br>
+    Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation
+- Building a Question-Answering System from Scratch
+  - https://towardsdatascience.com/building-a-question-answering-system-part-1-9388aadff507<br>
+    sentence2vec based approach to solve problems (and reply to a query) from a known text (ie: wiki, ...)
+
+# NLTK
+- Natural Language ToolKit (python) Essentials
+ - https://medium.com/@gk_/natural-language-toolkit-the-essentials-c97dd6a848d3<br>
+   Tokenize, Stemming, Tagging, Chunking and many cool things (worldnet and dictionaries)
