@@ -36,6 +36,9 @@ Assorted AI documentation.
 - Building a Question-Answering System from Scratch
   - https://towardsdatascience.com/building-a-question-answering-system-part-1-9388aadff507<br>
     sentence2vec based approach to solve problems (and reply to a query) from a known text (ie: wiki, ...)
+- How I Used Deep Learning To Train A Chatbot To Talk Like Me (Sorta)
+  - https://adeshpande3.github.io/How-I-Used-Deep-Learning-to-Train-a-Chatbot-to-Talk-Like-Me<br>
+    Great analysis and project for implementing a chatbot with seq2seq (two RNNs) pattern, a must read
 
 # NLTK
 - Natural Language ToolKit (python) Essentials
