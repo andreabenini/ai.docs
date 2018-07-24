@@ -8,6 +8,9 @@ Assorted AI documentation.
 - https://www.datasciencecentral.com/profiles/blogs/free-deep-learning-textbook Free deep learning textbooks
 - https://hackernoon.com/index-of-best-ai-machine-learning-resources-71ba0c73e34d Best AI/Machine Learning Resources
 
+# Code
+- https://github.com/tensorlayer An open community to promote AI technology. Take also a look at the excellent seq2seq-chatbot implementation from there
+
 # Courses
 - https://www.deeplearning.ai/ Andrew Ng courses on ML from Coursera
 
