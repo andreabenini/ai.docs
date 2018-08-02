@@ -43,7 +43,12 @@ Assorted AI documentation.
   - https://adeshpande3.github.io/How-I-Used-Deep-Learning-to-Train-a-Chatbot-to-Talk-Like-Me<br>
     Great analysis and project for implementing a chatbot with seq2seq (two RNNs) pattern, a must read
 
-# NLTK
+# Natural Language Processing
+## NLTK
 - Natural Language ToolKit (python) Essentials
  - https://medium.com/@gk_/natural-language-toolkit-the-essentials-c97dd6a848d3<br>
    Tokenize, Stemming, Tagging, Chunking and many cool things (worldnet and dictionaries)
+## TreeTagger
+- TreeTagger - a part-of-speech tagger for many languages
+ - http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/
+   The TreeTagger is a tool for annotating text with part-of-speech and lemma information
