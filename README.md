@@ -50,5 +50,5 @@ Assorted AI documentation.
    Tokenize, Stemming, Tagging, Chunking and many cool things (worldnet and dictionaries)
 ## TreeTagger
 - TreeTagger - a part-of-speech tagger for many languages
- - http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/
+ - http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/<br>
    The TreeTagger is a tool for annotating text with part-of-speech and lemma information
