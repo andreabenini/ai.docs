@@ -23,6 +23,9 @@ Assorted AI documentation.
   [Code](https://github.com/hi2nithya/FakeBook)
 
 # Chatbots
+- Chatbots with Machine Learning
+  - https://blog.statsbot.co/chatbots-machine-learning-e83698b1a91e<br>
+    Using machine learning approaches to build smart chatbots, it's just a primer but a good starting point
 - Contextual Chatbots with Tensorflow
   - https://chatbotsmagazine.com/contextual-chat-bots-with-tensorflow-4391749d0077<br>
     Build a chatbot framework using Tensorflow with some context handling
@@ -36,6 +39,9 @@ Assorted AI documentation.
 - Learning phrase Representations using RNN (2014) [milestone on RNN]
   - https://arxiv.org/pdf/1406.1078.pdf<br>
     Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation
+- A Neural Conversational Model
+  - https://arxiv.org/pdf/1506.05869.pdf
+    A Neural Conversational Model, followup of the previous link
 - Building a Question-Answering System from Scratch
   - https://towardsdatascience.com/building-a-question-answering-system-part-1-9388aadff507<br>
     sentence2vec based approach to solve problems (and reply to a query) from a known text (ie: wiki, ...)
