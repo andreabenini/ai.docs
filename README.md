@@ -13,6 +13,7 @@ Assorted AI documentation.
 
 # Courses
 - https://www.deeplearning.ai/ Andrew Ng courses on ML from Coursera
+- http://www.fast.ai/ Nice learning courses. All of them are free, cool and without ads
 
 # Examples
 - https://medium.com/applied-data-science/how-to-build-your-own-alphazero-ai-using-python-and-keras-7f664945c188 Connect4 AI with python and keras (alphazero based approach)
