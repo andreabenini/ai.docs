@@ -28,7 +28,7 @@ Assorted AI documentation.
 - Nice learning courses. All of them are free, cool and without ads<br>
   http://www.fast.ai/
 - Free Online Courses in Data Science<br>
-  https://www.class-central.com/subject/data-science
+  https://www.class-central.com/subject/data-science <br>
   Massive list of them, well organized and useful
 
 # Examples
