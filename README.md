@@ -2,21 +2,38 @@
 Assorted AI documentation.
 
 
+# General
+- How To Learn Data Science If You’re Broke.<br>
+  https://towardsdatascience.com/how-to-learn-data-science-if-youre-broke-7ecc408b53c7 <br>
+  Seems to be a very basic, starter, motivational but good introduction to the DataScience world
+
 # Links
-- http://conordewey.com/hitchhikers-guide-machine-learning-algorithms-python/ The Hitchhiker’s Guide to Machine Learning in Python
-- https://github.com/collections/machine-learning Machine Learning Links, docs, videos, projects
-- https://www.datasciencecentral.com/profiles/blogs/free-deep-learning-textbook Free deep learning textbooks
-- https://hackernoon.com/index-of-best-ai-machine-learning-resources-71ba0c73e34d Best AI/Machine Learning Resources
+- The Hitchhiker’s Guide to Machine Learning in Python<br>
+  http://conordewey.com/hitchhikers-guide-machine-learning-algorithms-python/
+- Machine Learning Links, docs, videos, projects<br>
+  https://github.com/collections/machine-learning
+- Free deep learning textbooks<br>
+  https://www.datasciencecentral.com/profiles/blogs/free-deep-learning-textbook
+- Best AI/Machine Learning Resources<br>
+  https://hackernoon.com/index-of-best-ai-machine-learning-resources-71ba0c73e34d
 
 # Code
-- https://github.com/tensorlayer An open community to promote AI technology. Take also a look at the excellent seq2seq-chatbot implementation from there
+- An open community to promote AI technology.<br>
+  https://github.com/tensorlayer <br>
+  Take also a look at the excellent seq2seq-chatbot implementation from there
 
 # Courses
-- https://www.deeplearning.ai/ Andrew Ng courses on ML from Coursera
-- http://www.fast.ai/ Nice learning courses. All of them are free, cool and without ads
+- Andrew Ng courses on ML from Coursera<br>
+  https://www.deeplearning.ai/ 
+- Nice learning courses. All of them are free, cool and without ads<br>
+  http://www.fast.ai/
+- Free Online Courses in Data Science<br>
+  https://www.class-central.com/subject/data-science
+  Massive list of them, well organized and useful
 
 # Examples
-- https://medium.com/applied-data-science/how-to-build-your-own-alphazero-ai-using-python-and-keras-7f664945c188 Connect4 AI with python and keras (alphazero based approach)
+- Connect4 AI with python and keras (alphazero based approach)<br>
+  https://medium.com/applied-data-science/how-to-build-your-own-alphazero-ai-using-python-and-keras-7f664945c188
 
 # Projects
 - Fakebook. Android app that uses machine learning algorithm to checks the reliability of your news sources 
