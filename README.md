@@ -6,6 +6,9 @@ Assorted AI documentation.
 - How To Learn Data Science If You’re Broke.<br>
   https://towardsdatascience.com/how-to-learn-data-science-if-youre-broke-7ecc408b53c7 <br>
   Seems to be a very basic, starter, motivational but good introduction to the DataScience world
+- Learn AI for Free<br>
+  https://blog.goodaudience.com/learn-ai-for-free-5b186cde3990
+  Too basic article, just a collection with a bunch of things, useful only to keep all bookmarks in one place
 
 # Links
 - The Hitchhiker’s Guide to Machine Learning in Python<br>
