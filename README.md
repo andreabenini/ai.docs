@@ -37,6 +37,8 @@ Assorted AI documentation.
 # Examples
 - Connect4 AI with python and keras (alphazero based approach)<br>
   https://medium.com/applied-data-science/how-to-build-your-own-alphazero-ai-using-python-and-keras-7f664945c188
+- Building Your First Neural Net From Scratch With PyTorch<br>
+  https://medium.com/@tomgrek/building-your-first-neural-net-from-scratch-with-pytorch-56b0e9c84d54
 
 # Projects
 - Fakebook. Android app that uses machine learning algorithm to checks the reliability of your news sources 
