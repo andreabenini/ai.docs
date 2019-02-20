@@ -9,6 +9,11 @@
   - https://medium.com/oracledevs/say-hello-to-red-samurai-contextual-chatbot-with-tensorflow-deep-neural-network-learning-aa69dd3be04f<br>
     Something like "Contextual chatbots with tensorflow" so not that original.
     Pretty well explained description based on that sample
+- Chatbots with Seq2Seq (a nice doc with details and references)<br>
+  - http://complx.me/2016-06-28-easy-seq2seq/<br>
+    Chatbots with Seq2Seq, Learn to build a chatbot using TensorFlow
+  - http://complx.me/2016-12-31-practical-seq2seq/<br>
+    Practical seq2seq, Revisiting sequence to sequence learning, with focus on implementation details
 - Tensorflow chatbot for deep learning [**seq2seq** based]
   - https://web.stanford.edu/class/cs20si/lectures/slides_13.pdf<br>
     Stanford lecture on CS20SI. TensorFlow for Deep Learning Research Lecture 13
