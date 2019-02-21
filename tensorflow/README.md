@@ -7,3 +7,5 @@
     Official tutorial on it, quite good getting started guide
   - https://bytegain.com/blog/getting-started-with-tensorflow-guide<br>
     For dummies guide on it. It ain't that simple but it's worth watching this guide
+  - https://medium.com/tensorflow/testing-for-tensorflow-2-0-2db0d17c37f0<br>
+    Notes on TensorFlow 2.0.  Nice collection of links and getting started info
