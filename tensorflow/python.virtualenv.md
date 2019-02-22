@@ -8,13 +8,16 @@ emerge virtualenv # Or whatever you need with your package manager in order to u
 virtualenv --system-site-packages -p python3 tensorflow
 
 # Enter the environment, see commands below
+source ./tensorflow/bin/activate
 
 # Upgrade pip or install an up to date version
-easy_install -U pip
+pip install --upgrade pip
+# list of python installed packages
+pip list
 
 # Now install tensorflow
-pip3 install --upgrade tensorflow     # Python 3, CPU
-pip3 install --upgrade tensorflow-gpu # Python 3, GPU
+pip install --upgrade tensorflow     # Python 3, CPU
+pip install --upgrade tensorflow-gpu # Python 3, GPU
 # ... and wait for a while until it finishes
 
 ```
@@ -31,6 +34,7 @@ deactivate
 
 # Upgrade tensorflow setup
 pip3 install --upgrade tensorflow
+pip3 install --upgrade tensorflow-gpu
 
 # Remove a virtualenv installation
 rm -r tensorflow                             # Directory where virtualenv was set
