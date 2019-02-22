@@ -34,6 +34,10 @@ Assorted AI documentation.
   https://www.class-central.com/subject/data-science <br>
   Massive list of them, well organized and useful
 
+# Books
+- Interpretable Machine Learning<br>
+  <em>A Guide for Making Black Box Models Explainable.</em><br>
+  https://christophm.github.io/interpretable-ml-book/
 # Examples
 - Connect4 AI with python and keras (alphazero based approach)<br>
   https://medium.com/applied-data-science/how-to-build-your-own-alphazero-ai-using-python-and-keras-7f664945c188
