@@ -19,6 +19,11 @@ Assorted AI documentation.
   https://www.datasciencecentral.com/profiles/blogs/free-deep-learning-textbook
 - Best AI/Machine Learning Resources<br>
   https://hackernoon.com/index-of-best-ai-machine-learning-resources-71ba0c73e34d
+- 7 Steps to Mastering Basic Machine Learning with Python<br>
+  https://www.kdnuggets.com/2019/01/7-steps-mastering-basic-machine-learning-python.html
+- Machine Learning A To Z, Complete Course by Andrew Ng<br>
+  https://www.youtube.com/watch?v=-58kO_zYUGE <br>
+  An huge video editing mix with the whole Andrew Ng course listed below, 8h but it seems a waste not watching it
 
 # Code
 - An open community to promote AI technology.<br>
