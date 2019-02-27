@@ -9,3 +9,6 @@
     For dummies guide on it. It ain't that simple but it's worth watching this guide
   - https://medium.com/tensorflow/testing-for-tensorflow-2-0-2db0d17c37f0<br>
     Notes on TensorFlow 2.0.  Nice collection of links and getting started info
+- Resources
+  - https://medium.com/tensorflow/introducing-tensorflow-datasets-c7f01f7e19f3<br>
+    Introducing TensorFlow datasets
