@@ -3,6 +3,9 @@ Assorted AI documentation.
 
 
 # General
+- Machine Learning for Everyone (some sort of "for dummies" guide)<br>
+  _In simple words. With real-world examples_<br>
+  https://vas3k.com/blog/machine_learning/
 - How To Learn Data Science If You’re Broke.<br>
   https://towardsdatascience.com/how-to-learn-data-science-if-youre-broke-7ecc408b53c7 <br>
   Seems to be a very basic, starter, motivational but good introduction to the DataScience world
