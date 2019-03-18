@@ -33,3 +33,8 @@
 - How I Used Deep Learning To Train A Chatbot To Talk Like Me (Sorta)
   - https://adeshpande3.github.io/How-I-Used-Deep-Learning-to-Train-a-Chatbot-to-Talk-Like-Me<br>
     Great analysis and project for implementing a chatbot with seq2seq (two RNNs) pattern, a must read
+
+# Frameworks
+- Attention, Dialogue, and Learning Reusable Patterns [RASA]
+  - https://medium.com/rasa-blog/attention-dialogue-and-learning-reusable-patterns-5d6bd18ef9f0
+    Rasa is an open source framework for machine learning-based dialogue system for building level 3 contextual AI assistants.
