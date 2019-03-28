@@ -62,6 +62,12 @@ Assorted AI documentation.
 - Natural Language ToolKit (python) Essentials
   - https://medium.com/@gk_/natural-language-toolkit-the-essentials-c97dd6a848d3<br>
     Tokenize, Stemming, Tagging, Chunking and many cool things (worldnet and dictionaries)
+- Text Classification using Neural Networks
+  - https://machinelearnings.co/text-classification-using-neural-networks-f5cd7b8765c6<br>
+    Text classifications for chatbots, very useful
+- Text classification and prediction using the Bag Of Words approach
+  - https://medium.freecodecamp.org/text-classification-and-prediction-using-bag-of-words-8aeb1396cded<br>
+    classification and intro to logistic regression, pretty tough but useful
 ## TreeTagger
 - TreeTagger - a part-of-speech tagger for many languages
   - http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/<br>
