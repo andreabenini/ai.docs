@@ -23,6 +23,10 @@ pip install --upgrade tensorflow-gpu # Python 3, GPU
 ```
 and you're set
 
+**NOTE**
+In certain environments you might need to have python3-dev package installed in order to successfully have numpy, tensorflow and various stuff enabled and clearly installed
+
+
 # Environment
 ```
 # Enter environment
