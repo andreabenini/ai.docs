@@ -31,7 +31,7 @@ mkdir /tmp
 chmod 1777 /tmp
 ```
 Or resize your tmpfs accordingly, I have seen numpy and tensorflow compilation in trouble with a small tmpfs filesystem.
-Get back to original state when you're done.
+Get back to original state when you're done (something like: `mount -t tmpfs -o size=500M tmpfs /tmp`).
 
 
 Modify `/etc/pip.conf` to include piwheels binary distributions (Ben Nuttall really rocks with it), create a new one if
