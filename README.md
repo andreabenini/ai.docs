@@ -12,6 +12,11 @@ Assorted AI documentation.
 - Learn AI for Free<br>
   https://blog.goodaudience.com/learn-ai-for-free-5b186cde3990
   Too basic article, just a collection with a bunch of things, useful only to keep all bookmarks in one place
+- Lessons from becoming a Machine Learning Engineer in 12 months, without a CS/Math degree<br>
+  https://hackernoon.com/lessons-from-becoming-a-machine-learning-engineer-in-12-months-without-a-cs-math-degree-acb308886c95
+  Sounds a little bit provocative to me even if I don't think I can achieve all things mentioned here 
+  in a 12 month period but assertions and general considerations are well addressed, comments and tips are pertinent.
+  Definitively a nice read with a lot of useful links
 
 # Links
 - The Hitchhiker’s Guide to Machine Learning in Python<br>
