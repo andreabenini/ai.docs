@@ -46,6 +46,10 @@ Assorted AI documentation.
 - Free Online Courses in Data Science<br>
   https://www.class-central.com/subject/data-science <br>
   Massive list of them, well organized and useful
+- Grow with Google<br>
+  https://grow.google/intl/europe<br>
+  An interesting amount of links, resources, training courses and documentation for google certified courses.
+  It's not strictly AI related but seems nice spend some time with them
 
 # Books
 - Interpretable Machine Learning<br>
