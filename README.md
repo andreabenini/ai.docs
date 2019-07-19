@@ -55,6 +55,10 @@ Assorted AI documentation.
 - Interpretable Machine Learning<br>
   <em>A Guide for Making Black Box Models Explainable.</em><br>
   https://christophm.github.io/interpretable-ml-book/
+- 10 Books to Learn Machine Learning<br>
+  <em>[Siraj Raval's](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) top ten favorites AI books, sorted from easier to harder</em>, 
+  an few forums and slack channels as well<br>
+  https://www.youtube.com/watch?v=1lxHH1UBTBU&feature=youtu.be
 # Examples
 - Connect4 AI with python and keras (alphazero based approach)<br>
   https://medium.com/applied-data-science/how-to-build-your-own-alphazero-ai-using-python-and-keras-7f664945c188
