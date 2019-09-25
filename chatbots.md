@@ -33,8 +33,21 @@
 - How I Used Deep Learning To Train A Chatbot To Talk Like Me (Sorta)
   - https://adeshpande3.github.io/How-I-Used-Deep-Learning-to-Train-a-Chatbot-to-Talk-Like-Me<br>
     Great analysis and project for implementing a chatbot with seq2seq (two RNNs) pattern, a must read
+- "Traditional" AI chatbot based on NLU and patterns
+  - http://rasa.ai
+    General docs
+  - https://github.com/RasaHQ
+    Opensource project and docs
+  - https://medium.com/@itsromiljain/build-a-conversational-chatbot-with-rasa-stack-and-python-rasa-nlu-b79dfbe59491
+    Build a Conversational Chatbot with Rasa Stack and Python— Rasa NLU
+  - https://www.analyticsvidhya.com/blog/2019/04/learn-build-chatbot-rasa-nlp-ipl/
 
 # Frameworks
 - Attention, Dialogue, and Learning Reusable Patterns [RASA]
   - https://medium.com/rasa-blog/attention-dialogue-and-learning-reusable-patterns-5d6bd18ef9f0
     Rasa is an open source framework for machine learning-based dialogue system for building level 3 contextual AI assistants.
+
+
+# Other docs
+- Outdated but nice analysis
+  - https://medium.com/chris-messina/2016-will-be-the-year-of-conversational-commerce-1586e85e3991
