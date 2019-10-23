@@ -50,6 +50,10 @@ Assorted AI documentation.
   https://grow.google/intl/europe<br>
   An interesting amount of links, resources, training courses and documentation for google certified courses.
   It's not strictly AI related but seems nice spend some time with them
+- Machine Learning Crash Course<br>
+  https://developers.google.com/machine-learning/crash-course/<br>
+  A self-study guide for aspiring machine learning practitioners, this Machine Learning Crash Course features
+  a series of lessons with video lectures, real-world case studies, and hands-on practice exercises
 
 # Books
 - Interpretable Machine Learning<br>
