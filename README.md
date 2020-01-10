@@ -67,10 +67,14 @@ Assorted AI documentation.
   <em>[Siraj Raval's](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) top ten favorites AI books, sorted from easier to harder</em>, 
   an few forums and slack channels as well<br>
   https://www.youtube.com/watch?v=1lxHH1UBTBU&feature=youtu.be
+- Linear Algebra  
+  Absolutely for free, absolutely awesome and definitively a really nice book.  
+  http://joshua.smcvt.edu/linearalgebra/book.pdf
+  
 # Examples
-- Connect4 AI with python and keras (alphazero based approach)<br>
+- Connect4 AI with python and keras (alphazero based approach)  
   https://medium.com/applied-data-science/how-to-build-your-own-alphazero-ai-using-python-and-keras-7f664945c188
-- Building Your First Neural Net From Scratch With PyTorch<br>
+- Building Your First Neural Net From Scratch With PyTorch  
   https://medium.com/@tomgrek/building-your-first-neural-net-from-scratch-with-pytorch-56b0e9c84d54
 
 # Projects
