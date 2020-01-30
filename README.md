@@ -70,6 +70,9 @@ Assorted AI documentation.
 - Linear Algebra  
   Absolutely for free, absolutely awesome and definitively a really nice book.  
   http://joshua.smcvt.edu/linearalgebra/book.pdf
+- Deep Learning textbook  
+  Cornerstone book from three fathers of AI: (Ian Goodfellow, Yoshua Bengio, Aaron Courville), free reading from MIT website  
+  http://www.deeplearningbook.org/
   
 # Examples
 - Connect4 AI with python and keras (alphazero based approach)  
