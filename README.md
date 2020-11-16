@@ -1,7 +1,6 @@
 # ai.docs
 Assorted AI documentation.
 
-
 # General
 - Machine Learning for Everyone (some sort of "for dummies" guide)<br>
   _In simple words. With real-world examples_<br>
@@ -73,7 +72,7 @@ Assorted AI documentation.
 - Deep Learning textbook  
   Cornerstone book from three fathers of AI: (Ian Goodfellow, Yoshua Bengio, Aaron Courville), free reading from MIT website  
   http://www.deeplearningbook.org/
-  
+
 # Examples
 - Connect4 AI with python and keras (alphazero based approach)  
   https://medium.com/applied-data-science/how-to-build-your-own-alphazero-ai-using-python-and-keras-7f664945c188
