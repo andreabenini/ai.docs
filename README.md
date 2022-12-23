@@ -57,6 +57,11 @@ Assorted AI documentation.
   https://developers.google.com/machine-learning/crash-course/<br>
   A self-study guide for aspiring machine learning practitioners, this Machine Learning Crash Course features
   a series of lessons with video lectures, real-world case studies, and hands-on practice exercises
+- Learn Machine Learning in 3 Months  
+  https://github.com/llSourcell/LearnML  
+  Well... probably, as usual, Siraj is somewhat too optimistic and learning ML without a solid Stats and Math base
+  might be too harsh. But even if it takes 1Y is still good enough, all linked resources are excellent.
+
 
 # Books
 - Interpretable Machine Learning<br>
