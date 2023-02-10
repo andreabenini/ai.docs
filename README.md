@@ -35,6 +35,9 @@ Assorted AI documentation.
   https://lexfridman.com/ai/  
   Well known source of quality audio (and video) podcasts from a real geek, mostly focused on AI folks it also has
   outstanding appearances from the whole IT field. A must watch (Bengio, Knuth, Stroustrup, Van Rossum, ...)
+- Awesome library, instead of building something from scratch this seems to be the way to go with it  
+  https://huggingface.co/  
+  Build, train and deploy state of the art models powered by the reference open source in machine learning.
 
 # Code
 - An open community to promote AI technology.<br>
