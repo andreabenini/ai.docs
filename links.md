@@ -20,3 +20,8 @@
   https://huggingface.co/  
   Build, train and deploy state of the art models powered by the reference open source in machine learning.
 
+
+
+## Agents
+- https://hermes-agent.nousresearch.com/
+- https://paperclip.ing/
