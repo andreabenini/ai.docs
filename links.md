@@ -21,6 +21,10 @@
   Build, train and deploy state of the art models powered by the reference open source in machine learning.
 
 
+## LLM Models
+- Benchmark and proper setup for Kimi Models (generic)  
+  https://unsloth.ai/docs/models/kimi-k2.6
+
 
 ## Agents
 - https://hermes-agent.nousresearch.com/
