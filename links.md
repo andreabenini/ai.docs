@@ -24,6 +24,11 @@
 ## LLM Models
 - Benchmark and proper setup for Kimi Models (generic)  
   https://unsloth.ai/docs/models/kimi-k2.6
+- GLM 5.2 vs Opus  
+  A fair comparison between them and considering all open weights benefits, Opus is still clearly better
+  but GLM is not that disappointing considering licensing and current features.
+  Author took a nice approach on creating a WebGL game from the ground up  
+  https://techstackups.com/comparisons/glm-5.2-vs-opus/
 
 
 ## Agents
