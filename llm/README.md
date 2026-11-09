@@ -11,3 +11,5 @@
     and runtime tools designed to run sparse Mixture-of-Experts (MoE) checkpoints entirely
     in system RAM on x86_64/ARM64  
     https://github.com/synchopate/llama-modchip
+- **Strata** Run powerful AI on your own computer  
+    https://github.com/Niko1221/Strata/blob/main/docs/MODELS.md
