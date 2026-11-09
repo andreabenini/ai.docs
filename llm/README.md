@@ -13,3 +13,7 @@
     https://github.com/synchopate/llama-modchip
 - **Strata** Run powerful AI on your own computer  
     https://github.com/Niko1221/Strata/blob/main/docs/MODELS.md
+- **unsloth.ai**, Image and Video Generation  
+    Create images with Qwen-Image-2.1, MiniMax-H3, FLUX, Z-Image and LoRA adapters.
+    Generate video with Wan and LTX.  
+    https://unsloth.ai/
