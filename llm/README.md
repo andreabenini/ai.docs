@@ -7,3 +7,7 @@
 - Run LLM Locally With Ollama or vLLM: RAG Build
     From the ground up to a RAG, driver installs and vector DBs are handled too.  
     https://tech-insider.org/run-llm-locally-ollama-vllm-rag-2026/
+- **llama-modchip** is a set of ggml/llama.cpp kernel patches, quantization transcoders,
+    and runtime tools designed to run sparse Mixture-of-Experts (MoE) checkpoints entirely
+    in system RAM on x86_64/ARM64  
+    https://github.com/synchopate/llama-modchip
